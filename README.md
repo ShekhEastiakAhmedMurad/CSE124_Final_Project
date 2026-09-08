@@ -1,2 +1,1 @@
-# CSE124_Final_Project
-Fall 2025 DS Final Phone Book Project.
+**Phone Book Management System** is a Data Structure Lab Final Project developed at **Daffodil International University (DIU)** in **Fall 2025**, designed to simplify and efficiently manage phone numbers and contacts.
